@@ -6,7 +6,7 @@
 #include "nvs.h"
 #include "nvs_flash.h"
 
-#include "wifi.h"
+#include "iotp_wifi.h"
 #include "freertos/event_groups.h"
 
 static const char *TAG = "WIFI";
